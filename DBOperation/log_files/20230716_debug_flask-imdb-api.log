@@ -1,0 +1,4 @@
+DEBUG    - 2023-07-16 19:13:38,064 [app.py][<module>]  App starts
+WARNING  - 2023-07-16 19:13:38,075 [_internal.py][_log]   * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO     - 2023-07-16 19:13:38,075 [_internal.py][_log]   * Running on http://192.168.1.14:5000/ (Press CTRL+C to quit)
